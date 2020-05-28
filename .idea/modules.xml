@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IFOA Music Center.iml" filepath="$PROJECT_DIR$/IFOA Music Center.iml" group="IFOA Music Center" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IFOA Music Center/app" />
+    </modules>
+  </component>
+</project>

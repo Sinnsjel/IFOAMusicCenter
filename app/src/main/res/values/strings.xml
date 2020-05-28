@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IFOA Music Center</string>
+    <string name="home_s">HOME</string>
+    <string name="search_s">SEARCH</string>
+    <string name="user_s">USER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
